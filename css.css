@@ -3506,6 +3506,7 @@ blockquote {
   padding: 32px;
   position: absolute;
   inset: auto;
+  margin-top: 40px;
 }
 
 .integration-circle-inner {
